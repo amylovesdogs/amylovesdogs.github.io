@@ -2392,6 +2392,7 @@
 		border-bottom: none;
 		position: relative;
 		text-align: center;
+		height: 2.75em;
 	}
 
 		.icon:before {
