@@ -1,6 +1,6 @@
 # node / npm
 node_modules
 *.log
-
+images/unused
 # phenomic build
 dist
