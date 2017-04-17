@@ -3492,6 +3492,7 @@
 			top: 0;
 			left: 0;
 			border-radius: 0;
+			opacity: .5;
 		}
 
 			.banner.style2 .image img {
@@ -3510,6 +3511,7 @@
 				width: 100%;
 				height: 100%;
 				border-radius: 0;
+				opacity: .5;
 			}
 
 		@media screen and (max-width: 1680px) {
