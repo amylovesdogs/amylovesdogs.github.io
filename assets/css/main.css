@@ -2392,7 +2392,6 @@
 		border-bottom: none;
 		position: relative;
 		text-align: center;
-		height: 2.75em;
 	}
 
 		.icon:before {
@@ -2501,6 +2500,11 @@
 			.image.main img {
 				width: 100%;
 			}
+
+	.icon-image {
+		height: 2.75em;
+		display: inline-block;
+	}
 
 /* List */
 
