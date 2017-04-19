@@ -1,0 +1,23 @@
+{
+  "name": "amy-paschal-site",
+  "version": "1.0.0",
+  "description": "Amy Paschal's web site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass assets/sass/main.scss assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amylovesdogs/amylovesdogs.github.io.git"
+  },
+  "author": "Amy Paschal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amylovesdogs/amylovesdogs.github.io/issues"
+  },
+  "homepage": "https://github.com/amylovesdogs/amylovesdogs.github.io#readme",
+  "dependencies": {
+    "sass": "^0.5.0"
+  }
+}
