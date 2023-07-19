@@ -1914,6 +1914,7 @@ a.icon.style2:active:before {
 
 .icon-image {
   height: 5.75em;
+  width: auto;
   display: inline-block; }
 
 /* List */

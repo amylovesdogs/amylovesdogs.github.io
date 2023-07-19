@@ -4,3 +4,4 @@ node_modules
 images/unused
 # phenomic build
 dist
+.DS_Store
